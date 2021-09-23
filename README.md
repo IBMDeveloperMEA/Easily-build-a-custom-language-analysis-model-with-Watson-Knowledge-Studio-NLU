@@ -13,11 +13,11 @@
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
-1. [Your title](##Header)  
+1. [Code Lab](#Code Lab)  
   
 ## Prerequisites
   
-## **Sign-up/Login to IBM Cloud**
+**Sign-up/Login to IBM Cloud**
 
 If you are an existing user please [login to IBM Cloud](<PUT TRACK LINK HERE>)
 
@@ -30,7 +30,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
 
-## Define Problem area
+## Code Lab
 
 IBM&reg; Watson&trade; Knowledge Studio is a service that lets you create a customized language analysis model for a specific domain. This is especially useful for specialized industries with complex languages such as medicine, law, and finance.
 
@@ -71,11 +71,11 @@ To provision an IBM Watson Knowledge Studio instance:
 
     ![Launching Watsob Knowledge Studio](images/image3.png)
 
-## Estimated time
+### Estimated time
 
 It should take you approximately 60 minutes to complete the tutorial after you've completed the prerequisites.
 
-## Steps
+### Steps
 
 1. [Define entity types and subtypes](define-entities-and-entity-subtypes)
 2. [Create "Relation Types"](create-relation-types)
@@ -287,11 +287,11 @@ In the sentiment section, you see that the review was labeled as positive. And i
   },
 ```
 
-## Conclusion
+### Conclusion
 
 In this tutorial, you learned how to annotate a set of documents to accurately classify reviews. In the [accompanying pattern](/patterns/build-a-virtual-insurance-assistant-to-process-insurance-claims/), you'll see how to aggregate the natural language understanding results for each mechanic and determine the best mechanic for a given repair type. This tutorial is part of the [Build a customer care solution](/articles/insurance-industry-customer-care-solution) to help your customers manage their insurance claims and get automobile service information.
 
-## Sample Outputs
+
 
 ## Workshop Resources
 
