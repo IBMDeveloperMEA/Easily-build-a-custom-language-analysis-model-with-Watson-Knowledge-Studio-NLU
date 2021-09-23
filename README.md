@@ -302,9 +302,11 @@ In this tutorial, you learned how to annotate a set of documents to accurately c
 
 - Workshop Replay: <Link>
   
-- Survey [Here](https://ibm.biz/WKSNLUSurvey) 
-
-
+- Survey [Here](https://ibm.biz/WKSNLUSurvey)
+  
+## References
+Watson NLU [Demo](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home)   
+Watson Knowledge Stdudio [Demo](https://www.ibm.com/demos/live/watson-knowledge-studio/self-service/home)  
 
   
 ## Done with the workshop? Here are some things you can try further
