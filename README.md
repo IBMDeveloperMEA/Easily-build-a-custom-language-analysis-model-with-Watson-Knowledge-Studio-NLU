@@ -3,13 +3,15 @@
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: <Link>
+- Login/Sign Up for [IBM Cloud](ibm.biz/WKS_NLU)
   
 - [Hands-On Guide](https://developer.ibm.com/tutorials/build-a-recommendation-engine-with-watson-natural-language-understanding/)
 
 - Slides: <Link>
 
 - Workshop Replay: <Link>
+  
+- Survey [Here](ibm.biz/WKSNLUSurvey)  
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
@@ -19,7 +21,7 @@
   
 **Sign-up/Login to IBM Cloud**
 
-If you are an existing user please [login to IBM Cloud](<PUT TRACK LINK HERE>)
+If you are an existing user please [login to IBM Cloud](ibm.biz/WKS_NLU)
 
 And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](<PUT TRACK LINK HERE>): <br>
 1- Put your email and password. <br>
@@ -292,13 +294,15 @@ In this tutorial, you learned how to annotate a set of documents to accurately c
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: <Link>
+- Login/Sign Up for [IBM Cloud](ibm.biz/WKS_NLU)
 
 - Hands-On Guide: <Link>
 
 - Slides: <Link>
 
 - Workshop Replay: <Link>
+  
+- Survey [Here](ibm.biz/WKSNLUSurvey) 
 
 
 
