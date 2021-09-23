@@ -23,7 +23,7 @@
 
 If you are an existing user please [login to IBM Cloud](ibm.biz/WKS_NLU)
 
-And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](<PUT TRACK LINK HERE>): <br>
+And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](ibm.biz/WKS_NLU): <br>
 1- Put your email and password. <br>
 2- You get a verification link with the registered email to verify your account. <br>
 3- Fill the personal information fields. <br>
@@ -39,7 +39,7 @@ IBM&reg; Watson&trade; Knowledge Studio is a service that lets you create a cust
 In this tutorial, learn how to use Watson Knowledge Studio to annotate reviews for auto repair facilities. After annotating the reviews, you can then train a machine learning model that can analyze the reviews. The model is able to determine what types of repairs were needed by the vehicle and how satisfied the customer was with the quality of work. By analyzing the reviews associated with a given auto repair shop, you can generate insights about that shop's overall performance to determine what types of repairs they're most (and least) skilled at.
 
 
-To follow this tutorial, you need an IBM Cloud account. If you don't have one, you can [create one](https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg).
+To follow this tutorial, you need an IBM Cloud account. If you don't have one, you can [create one](ibm.biz/WKS_NLU).
 
 ### Provision a Watson Natural Language Understanding instance
 
