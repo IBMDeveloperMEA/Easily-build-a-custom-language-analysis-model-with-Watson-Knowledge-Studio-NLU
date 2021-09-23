@@ -13,7 +13,7 @@
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
-1. [Code Lab](##Code Lab)  
+1. [CodeLab](##CodeLab)  
   
 ## Prerequisites
   
@@ -30,7 +30,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
 
-## Code Lab
+## CodeLab
 
 IBM&reg; Watson&trade; Knowledge Studio is a service that lets you create a customized language analysis model for a specific domain. This is especially useful for specialized industries with complex languages such as medicine, law, and finance.
 
