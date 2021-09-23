@@ -254,11 +254,8 @@ Create a .json file using the following code. In your file, replace the `model_i
 Run a curl command to analyze the text with the generated machine learning model. Be sure to update the `nluApiKey` and `nluUrl` fields with your service credentials. Also, add the path to your .json file.
 
 ```
-curl -X POST \
-  -u "apikey":"<nluApiKey> \  
-  -H "Content-Type: application/json" \
-  -d @<path to json file> \
-  "<nluUrl>/v1/analyze?version=2019-07-12"
+curl -X POST -H "Content-Type: application/json" -u "apikey:{apikey}" -d @parameters.json "{url}/v1/analyze?version=2021-08-01"
+
 ```
 
 In the sentiment section, you see that the review was labeled as positive. And in the entities section, you'll be able to recognize which repairs were completed.
