@@ -13,7 +13,7 @@
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
-1. [Code Lab](#Code Lab)  
+1. [Code Lab](##Code Lab)  
   
 ## Prerequisites
   
