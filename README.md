@@ -1,12 +1,11 @@
-# !!Add workshop title!!
+# Easily Build a Custom Language Analysis Model with Watson Knowledge Studio & NLU
 
-Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you can deploy slides to https://ibmdevelopermea.github.io
 
 ## Workshop Resources
 
 - Login/Sign Up for IBM Cloud: <Link>
   
-- Hands-On Guide: <Link>
+- [Hands-On Guide](https://developer.ibm.com/tutorials/build-a-recommendation-engine-with-watson-natural-language-understanding/)
 
 - Slides: <Link>
 
