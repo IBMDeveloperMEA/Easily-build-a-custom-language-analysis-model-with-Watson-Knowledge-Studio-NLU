@@ -30,53 +30,12 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
 
-## Define Problem area - Copied from IBM Developer
-
-## Architecture 
-  
-  Use the architecture on the IBM Developer - else edit it using the patterns 
-  Link for architecture: https://l2fprod.github.io/myarchitecture/ 
-
-## Tutorial - Copied from IBM Developer
-  
-  ---
-# Related publishing issue: https://github.ibm.com/IBMCode/Code-Tutorials/issues/4022
-draft: false
-title: "Build a recommendation engine with Watson Natural Language Understanding"
-subtitle: "Use Watson Knowledge Studio to create a customized language analysis model for a specific domain"
-meta_title: "Build a recommendation engine with Watson Natural Language Understanding"
-authors:
-  - name: "Kalonji Bankole"
-    email: "kkbankol@us.ibm.com"
-  - name: "Mark Sturdevant"
-    email: "mark.sturdevant@ibm.com"
-
-completed_date: "2020-06-29"
-last_updated: "2020-06-29"
-excerpt: "Use Watson Knowledge Studio to create a customized language analysis model for a specific domain"
-meta_description: "Use Watson Knowledge Studio to create a customized language analysis model for a specific domain"
-meta_keywords: "natural language processing, artificial intelligence"
-primary_tag: "artificial-intelligence"
-tags:
-  - "machine-learning"
-  - "natural-language-processing"
-components:
-  - "watson-apis"
-related_content:
-  - type: patterns
-    slug: analyze-sms-messages-with-watson-knowledge-studio
-  - type: series
-    slug: introduction-to-watson-natural-language-processing
-  - type: tutorials
-    slug: extracting-personal-data-from-unstructured-text-using-watson-knowledge-studio
-
----
+## Define Problem area
 
 IBM&reg; Watson&trade; Knowledge Studio is a service that lets you create a customized language analysis model for a specific domain. This is especially useful for specialized industries with complex languages such as medicine, law, and finance.
 
 In this tutorial, learn how to use Watson Knowledge Studio to annotate reviews for auto repair facilities. After annotating the reviews, you can then train a machine learning model that can analyze the reviews. The model is able to determine what types of repairs were needed by the vehicle and how satisfied the customer was with the quality of work. By analyzing the reviews associated with a given auto repair shop, you can generate insights about that shop's overall performance to determine what types of repairs they're most (and least) skilled at.
 
-## Prerequisites
 
 To follow this tutorial, you need an IBM Cloud account. If you don't have one, you can [create one](https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg).
 
