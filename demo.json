@@ -1,0 +1,22 @@
+{
+    "text": "My truck windshield was cracked, so I went to Joe’s Auto shop and they replaced it for me. They did an excellent job. I would highly recommend them.",
+    "features": {
+      "entities": {
+        "model": "<MODEL ID>"
+      },
+      "keywords": {
+        "emotion": true,
+        "sentiment": true
+      },
+      "emotion": {
+          "sentiment": true
+      },
+      "categories": {
+        "sentiment": true
+      },
+      "relations": {
+        "model": "<MODEL ID>"
+      },
+      "sentiment": {}
+    }
+  }
