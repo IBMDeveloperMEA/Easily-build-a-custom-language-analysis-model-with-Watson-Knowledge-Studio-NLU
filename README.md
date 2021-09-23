@@ -7,7 +7,7 @@
   
 - [Hands-On Guide](https://developer.ibm.com/tutorials/build-a-recommendation-engine-with-watson-natural-language-understanding/)
 
-- Slides: <Link>
+- [Slides](https://ibmdevelopermea.github.io/Easily-build-a-custom-language-analysis-model-with-Watson-Knowledge-Studio-NLU/) <Link>
 
 - Workshop Replay: <Link>
   
