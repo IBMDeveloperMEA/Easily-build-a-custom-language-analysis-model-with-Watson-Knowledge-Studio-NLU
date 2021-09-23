@@ -9,9 +9,9 @@
 
 - [Slides](https://ibmdevelopermea.github.io/Easily-build-a-custom-language-analysis-model-with-Watson-Knowledge-Studio-NLU/) <Link>
 
-- Workshop Replay: <Link>
+- [Workshop Replay](https://www.crowdcast.io/e/custom-language-analysis) <Link>
   
-- Survey [Here](https://ibm.biz/WKSNLUSurvey)  
+- [Survey](https://ibm.biz/WKSNLUSurvey)  
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
