@@ -1,0 +1,631 @@
+[ {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-0",
+  "name" : "review_1.txt",
+  "createdDate" : 0,
+  "text" : "\"My windshield was broken so i went to Lydia's auto repair. They vacuumed the shattered glass and replaced the windshield in the same day. I was very satisifed with their service and quality of work.\"\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-1",
+  "name" : "review_2.txt",
+  "createdDate" : 0,
+  "text" : "\"I went to joe's auto mechanic shop to get my windows replaced, they did a great job\"\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-10",
+  "name" : "review_11.txt",
+  "createdDate" : 0,
+  "text" : "i was very satisfied with the price of tint on my car and they said the best price and they do a great job.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-11",
+  "name" : "review_12.txt",
+  "createdDate" : 0,
+  "text" : "i got an oil change and tire rotation. they are always super friendly. i will definitely be recommending them.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-12",
+  "name" : "review_13.txt",
+  "createdDate" : 0,
+  "text" : "the windows look great.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-13",
+  "name" : "review_14.txt",
+  "createdDate" : 0,
+  "text" : "took my truck in for a window tint and an alignment today. they did a fantastic job and the work is always great.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-14",
+  "name" : "review_15.txt",
+  "createdDate" : 0,
+  "text" : "great service and installed up the patch in a tire. the customer service was good, great price with a friendly guy. i highly recommend this place!\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-15",
+  "name" : "review_16.txt",
+  "createdDate" : 0,
+  "text" : "these guys are good they have always fixed my car. great price to get my oil changed!\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-16",
+  "name" : "review_17.txt",
+  "createdDate" : 0,
+  "text" : "this is the place to get your car replaced. my mirror feel off and they fixed it for free.  they also do alignments for me.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-17",
+  "name" : "review_18.txt",
+  "createdDate" : 0,
+  "text" : "i had a nail in my tire and they did a great job.  i was able to get an appointment and they got me in and out within an hour\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-18",
+  "name" : "review_19.txt",
+  "createdDate" : 0,
+  "text" : "i was sent to get oil changed and smog check and the staff was very nice and professional.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-19",
+  "name" : "review_20.txt",
+  "createdDate" : 0,
+  "text" : "we got my oil changed here and they didn't try to upsell me, i appreciate their honesty. i will definitely be back.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-2",
+  "name" : "review_3.txt",
+  "createdDate" : 0,
+  "text" : "\"this is the best repair shop in california. everyone was very knowledgeable, and i was able to get my windshield replaced in the same day\"\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-20",
+  "name" : "review_21.txt",
+  "createdDate" : 0,
+  "text" : "they always go above and beyond. i will definitely be back for my next set of tires.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-21",
+  "name" : "review_22.txt",
+  "createdDate" : 0,
+  "text" : "to replace the window on our cars.  i will definitely be back for future services.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-22",
+  "name" : "review_23.txt",
+  "createdDate" : 0,
+  "text" : "these guys are awesome! they had the oil change and was done in a little\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-23",
+  "name" : "review_24.txt",
+  "createdDate" : 0,
+  "text" : "i was waiting in the front desk in a few hours for a routine oil change. i will not be using them again\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-24",
+  "name" : "review_25.txt",
+  "createdDate" : 0,
+  "text" : "she was very professional and friendly and took communication and were able to get my car out back on the road\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-25",
+  "name" : "review_26.txt",
+  "createdDate" : 0,
+  "text" : "repair done and the service was great and the price for parts still was reasonably priced. i will be back for any places and maintenance needs. thank you for the best customer servn't believe that that the staff there has been the best and was more than accommodating to quickly got me some one tire for a few minutes\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-26",
+  "name" : "review_27.txt",
+  "createdDate" : 0,
+  "text" : "my suv and the service rep was very helpful and friendly. i will be going back here for all my vehicle needs.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-27",
+  "name" : "review_28.txt",
+  "createdDate" : 0,
+  "text" : "put on the tire so i went to come to find out the workers were still quick and very friendly. i will definitely be back for an oil change. i highly recommend them\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-28",
+  "name" : "review_29.txt",
+  "createdDate" : 0,
+  "text" : "i would be back and i feel like my car is running clean.  i was out and charged me fairly\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-29",
+  "name" : "review_30.txt",
+  "createdDate" : 0,
+  "text" : "i have been to definitely be a returning customer for years now and i have been here for a timely manner. they are always friendly and knowledge needs. i have been here a few months ago, i would recommend them to anyone who is getting all the best service i have ever been to.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-3",
+  "name" : "review_4.txt",
+  "createdDate" : 0,
+  "text" : "\"my wife's windshield was chipped, so i went to the dealership to get it fixed. they filled in the crack in my windshield and prevented it from getting any worse\"\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-30",
+  "name" : "review_31.txt",
+  "createdDate" : 0,
+  "text" : "it was the best place to get my car washed\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-31",
+  "name" : "review_32.txt",
+  "createdDate" : 0,
+  "text" : "i will be back for all my oil changes\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-32",
+  "name" : "review_33.txt",
+  "createdDate" : 0,
+  "text" : "i have been coming here for years and i'm happy to come here. they are not a bad, my tire was leaking air and engine light and they were done in about 45 minutes. i went to this location and had them do a nail in the light and they were so sweet\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-33",
+  "name" : "review_34.txt",
+  "createdDate" : 0,
+  "text" : "they do a great job on my car. very professional and convenient. every time the entire staff was friendly and i will be back\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-34",
+  "name" : "review_35.txt",
+  "createdDate" : 0,
+  "text" : "they said that i needed a detail of the parts done and they sold me things that were spotless to see if they were still able to be taken care of.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-35",
+  "name" : "review_36.txt",
+  "createdDate" : 0,
+  "text" : "the entire car wash is always busy. i would recommend this place to anyone looking for a place to have your car cleaned\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-36",
+  "name" : "review_37.txt",
+  "createdDate" : 0,
+  "text" : "i got to trust them for a mobile tire fast service that everyone is to make an appointment...they take the time to come out \n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-37",
+  "name" : "review_38.txt",
+  "createdDate" : 0,
+  "text" : "this is a good place to get your windows done!  car wash is a free car wash.  they do a great job and are better than the competition.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-38",
+  "name" : "review_39.txt",
+  "createdDate" : 0,
+  "text" : "i needed my windhield replaced, and it took them less than two hours!  thank you again, good customer service!\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-39",
+  "name" : "review_40.txt",
+  "createdDate" : 0,
+  "text" : "i have had my car washed here and i don't know how to take my car to this location for the work\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-4",
+  "name" : "review_5.txt",
+  "createdDate" : 0,
+  "text" : "\"my rearview mirror fell off, so i went to Jake's auto repair to get it reglued. it came off afterwards, so i may need to go somewhere else.\"\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-40",
+  "name" : "review_41.txt",
+  "createdDate" : 0,
+  "text" : "the service was excellent! the customer service was very comfortable, they were able to fix my brake pads and oil and patched my tire up\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-41",
+  "name" : "review_42.txt",
+  "createdDate" : 0,
+  "text" : "i needed a tire rotation. i would highly recommend this business. they are so fast and you get the job done in the same morning.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-42",
+  "name" : "review_43.txt",
+  "createdDate" : 0,
+  "text" : "i had a great experience here.  they were able to get me in and out in less than an hour. i will definitely be back for future services.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-43",
+  "name" : "review_44.txt",
+  "createdDate" : 0,
+  "text" : "i got my windows tinted here. i will definitely be back for future services.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-44",
+  "name" : "review_45.txt",
+  "createdDate" : 0,
+  "text" : "i cracked my windshield and they fixed it for me. i was sold on the price and was very satisfied. \n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-45",
+  "name" : "review_46.txt",
+  "createdDate" : 0,
+  "text" : "i took my husband's car for an oil change.  i will definitely be back for future services.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-46",
+  "name" : "review_47.txt",
+  "createdDate" : 0,
+  "text" : "the best service in town.  i was back on the road in 15 minutes.  they do alignments and patches\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-47",
+  "name" : "review_48.txt",
+  "createdDate" : 0,
+  "text" : "i had a flat tire and was out the door in no problem.  i will definitely be back. \n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-48",
+  "name" : "review_49.txt",
+  "createdDate" : 0,
+  "text" : "i had a flat tire and they were also able to get my oil change and tire rotation.  they did a great job and the guys were very nice and helpful.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-49",
+  "name" : "review_50.txt",
+  "createdDate" : 0,
+  "text" : "i have been taking my cars to Joe's Auto Repair for my oil changes and tire rotation. the service was fast and friendly and the service was fast, and the price was great to work with. they are very nice and friendly and courteous.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-5",
+  "name" : "review_6.txt",
+  "createdDate" : 0,
+  "text" : "\"the service was very professional. the mechanic diagnosed my engine light and found a problem with the starter. they fixed it for 100 dollars cheaper than expected\"\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-50",
+  "name" : "review_51.txt",
+  "createdDate" : 0,
+  "text" : "i would definitely recommend them to anyone looking to get your windows tinted here. he is always friendly and helpful.  great service. i was in and out in less than the same day\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-51",
+  "name" : "review_52.txt",
+  "createdDate" : 0,
+  "text" : "pulled in to get my oil changed here and they were able to fix my tire for free\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-52",
+  "name" : "review_53.txt",
+  "createdDate" : 0,
+  "text" : "i needed to fix my car windows and they were able to get me in and out in about an hour.  the staff is very professional and efficient. i will definitely be back for any other tire needs.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-53",
+  "name" : "review_54.txt",
+  "createdDate" : 0,
+  "text" : "i have a chip in the windshield. they were able to get me in and out in under 30 minutes and they were able to fix the window within 15 minutes\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-54",
+  "name" : "review_55.txt",
+  "createdDate" : 0,
+  "text" : " they always give me a pretty good price on oil changes and they were extremely helpful and explained everything for a service car wash and they were super fast and efficient.  i will definitely be back again if needed.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-55",
+  "name" : "review_56.txt",
+  "createdDate" : 0,
+  "text" : "fast and easy to fix this place they were able to repair a crack in my windshield \n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-56",
+  "name" : "review_57.txt",
+  "createdDate" : 0,
+  "text" : "the customer service was excellent helping us fixing the problem within 4 hours and they did a great job repairing the wheels. the owner helped rich installed a new tire and the price was awesome\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-57",
+  "name" : "review_58.txt",
+  "createdDate" : 0,
+  "text" : "dropped my car off to cody during land and the waiting area was a great price.  i will definitely be back again if needed and it is the best place to repair a chip in the windshield.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-58",
+  "name" : "review_59.txt",
+  "createdDate" : 0,
+  "text" : "i was able to get help in under 30 minutes and they were able to patch it up and replace my windshield. i will definitely be back again in the future, they are the best\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-59",
+  "name" : "review_60.txt",
+  "createdDate" : 0,
+  "text" : "will definitely be going back again for my next service again thanks to Best Wheels and the service was great thank you\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-6",
+  "name" : "review_7.txt",
+  "createdDate" : 0,
+  "text" : "\"i had a fantastic experience here. i was friendly and helpful. they do amazing work and will definitely be back.\"\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-60",
+  "name" : "review_61.txt",
+  "createdDate" : 0,
+  "text" : "best price i have ever experience with the work on my car.  they didn't have the problem fixing my tire and replaced the tire for free\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-61",
+  "name" : "review_62.txt",
+  "createdDate" : 0,
+  "text" : "the best!!  we recently had two large windows replaced and they did a great job.  i was in and out in less than an hour and they were able to get me a great price\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-62",
+  "name" : "review_63.txt",
+  "createdDate" : 0,
+  "text" : "they were able to fix the dent on my car and made the problem done in about an hour and a half and they were very courteous and courteous and efficient.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-63",
+  "name" : "review_64.txt",
+  "createdDate" : 0,
+  "text" : "i had my windshield replaced and they were extremely friendly and the customer service was great to work with. they came out to my house the staff was very professional and efficient.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-64",
+  "name" : "review_65.txt",
+  "createdDate" : 0,
+  "text" : "saved me over $50. car looks fine. great prices and affordable. would definitely recommend this place for tires and used tires!\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-65",
+  "name" : "review_66.txt",
+  "createdDate" : 0,
+  "text" : "the guys here are so nice and helpful and efficient. i will definitely be back for any other maintenance needs.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-66",
+  "name" : "review_67.txt",
+  "createdDate" : 0,
+  "text" : "they were able to get me in and out and they were able to fix the windshield in less than an hour\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-67",
+  "name" : "review_68.txt",
+  "createdDate" : 0,
+  "text" : "they did a great job on my car.  they're honest and helpful and courteous and friendly and efficient service. will definitely be back if needed.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-68",
+  "name" : "review_69.txt",
+  "createdDate" : 0,
+  "text" : "the guy who worked on my car engine was done in 20 minutes and they were able to get me in and out in about an hour.  the waiting room was fast and efficient.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-69",
+  "name" : "review_70.txt",
+  "createdDate" : 0,
+  "text" : "they changed my tire and completely happy with the entire dealership! i love the manager\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-7",
+  "name" : "review_8.txt",
+  "createdDate" : 0,
+  "text" : "stay away from the more expensive tires. don't like the price\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-70",
+  "name" : "review_71.txt",
+  "createdDate" : 0,
+  "text" : "i was in and out in an hour. they were able to fix my windshield and was very impressed with the price and the service was great.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-71",
+  "name" : "review_72.txt",
+  "createdDate" : 0,
+  "text" : "excellent customer service. i had a faulty sensor for my tire, and they were able to replace it\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-72",
+  "name" : "review_73.txt",
+  "createdDate" : 0,
+  "text" : "the staff was very reasonable and fast. i recently had a windshield replaced. i was in and out in an hour. they were very reasonable.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-73",
+  "name" : "review_74.txt",
+  "createdDate" : 0,
+  "text" : "here was no line and they changed my oil really quickly. i would definitely recommend them to anyone.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-74",
+  "name" : "review_75.txt",
+  "createdDate" : 0,
+  "text" : "went in for an oil change and tire rotation. they were the best service and in install with the services and comfortable.  i would definitely recommend them in the future. thank you guys!!\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-75",
+  "name" : "review_76.txt",
+  "createdDate" : 0,
+  "text" : "professional and friendly. i'm glad i was there and i would highly recommend this shop for your rim and tire needs.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-76",
+  "name" : "review_77.txt",
+  "createdDate" : 0,
+  "text" : "got my rotors changed by a good price. he did a great job of picking out my tire to get me in, and were extremely nice\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-77",
+  "name" : "review_78.txt",
+  "createdDate" : 0,
+  "text" : "went there for an oil change recently.  didn't know if they were able to get it done in an hour. they are always friendly and helpful. i'm a happy customer. i will definitely be back for any of our next tire services.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-78",
+  "name" : "review_79.txt",
+  "createdDate" : 0,
+  "text" : "fernando has been great with a good price they found a tire for my car and they did a great job.  the staff was letting me know what they were going on with the repair and tire shop all the way.  i would recommend this place to anyone who asks!\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-79",
+  "name" : "review_80.txt",
+  "createdDate" : 0,
+  "text" : "took my car in to get a quote on my windshield. i will use them again if i ever come here for windshield repair! did a great job on the car. the rest of the the front desk appointment is super friendly. thank you for your honesty\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-8",
+  "name" : "review_9.txt",
+  "createdDate" : 0,
+  "text" : "i was greeted to get my oil changed and tire rotation.  they do alignments and tires are fair.  i will definitely return for another or other maintenance needs\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-80",
+  "name" : "review_81.txt",
+  "createdDate" : 0,
+  "text" : "the girls in the office were right on top of the way to make sure i was in a timely manner and i was out in 20 minutes. they always have a great price and everyone was very friendly and efficient. they always get me in and out in about 30 minutes.  i will definitely be back for my next oil change\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-81",
+  "name" : "review_82.txt",
+  "createdDate" : 0,
+  "text" : "i will definitely be coming back for any other tire issues i've been to.  the staff was very friendly and really approachable. they were able to fix the problem and was super fast. i would recommend this place for any other tire changes.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-82",
+  "name" : "review_83.txt",
+  "createdDate" : 0,
+  "text" : "tire shine was a little high but worth it, best work i've ever had.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-83",
+  "name" : "review_84.txt",
+  "createdDate" : 0,
+  "text" : "i will recommend to anyone looking for a place to get your windshield replaced\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-84",
+  "name" : "review_85.txt",
+  "createdDate" : 0,
+  "text" : "they are always polite and great help. i will not go to any other tire shop in the future, this one is the best.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-85",
+  "name" : "review_86.txt",
+  "createdDate" : 0,
+  "text" : "i had to get a flat tire swapped out. they did a really great job, quick and efficient\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-86",
+  "name" : "review_87.txt",
+  "createdDate" : 0,
+  "text" : "they did a great job and i will always go to this tire shop for all of our fleet maintenance. thank you for the great service\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-87",
+  "name" : "review_88.txt",
+  "createdDate" : 0,
+  "text" : "the service was great and they do quality work for me.  i will definitely be back for any other tire needs\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-88",
+  "name" : "review_89.txt",
+  "createdDate" : 0,
+  "text" : "fair prices and pricing was right and the workers were very friendly. they did a great job on my car and helped me with a nail in one of my tires. they were able to patched it up in under 30 minutes\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-89",
+  "name" : "review_90.txt",
+  "createdDate" : 0,
+  "text" : "thank you guys.  discount tire is fast and friendly. they are very helpful and professional when i arrived. been coming here for a while. they are fair and honest and super super terrific! i highly recommend them\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+}, {
+  "id" : "8a2a6550-9f91-11ea-9fed-efe5f3c36d5e-9",
+  "name" : "review_10.txt",
+  "createdDate" : 0,
+  "text" : "i got an appointment with a nail in my tire.  i was out in less than an hour. i highly recommend them to friends.\n",
+  "status" : "READY",
+  "modifiedDate" : 1590525833573
+} ]
