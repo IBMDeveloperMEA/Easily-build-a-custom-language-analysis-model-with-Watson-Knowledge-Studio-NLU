@@ -3,7 +3,7 @@
 
 ## Workshop Resources
 
-- Login/Sign Up for [IBM Cloud](ibm.biz/WKS_NLU)
+- Login/Sign Up for [IBM Cloud](https://ibm.biz/WKS_NLU)
   
 - [Hands-On Guide](https://developer.ibm.com/tutorials/build-a-recommendation-engine-with-watson-natural-language-understanding/)
 
@@ -11,7 +11,7 @@
 
 - Workshop Replay: <Link>
   
-- Survey [Here](ibm.biz/WKSNLUSurvey)  
+- Survey [Here](https://ibm.biz/WKSNLUSurvey)  
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
@@ -21,9 +21,9 @@
   
 **Sign-up/Login to IBM Cloud**
 
-If you are an existing user please [login to IBM Cloud](ibm.biz/WKS_NLU)
+If you are an existing user please [login to IBM Cloud](https://ibm.biz/WKS_NLU)
 
-And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](ibm.biz/WKS_NLU): <br>
+And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](https://ibm.biz/WKS_NLU): <br>
 1- Put your email and password. <br>
 2- You get a verification link with the registered email to verify your account. <br>
 3- Fill the personal information fields. <br>
@@ -39,11 +39,11 @@ IBM&reg; Watson&trade; Knowledge Studio is a service that lets you create a cust
 In this tutorial, learn how to use Watson Knowledge Studio to annotate reviews for auto repair facilities. After annotating the reviews, you can then train a machine learning model that can analyze the reviews. The model is able to determine what types of repairs were needed by the vehicle and how satisfied the customer was with the quality of work. By analyzing the reviews associated with a given auto repair shop, you can generate insights about that shop's overall performance to determine what types of repairs they're most (and least) skilled at.
 
 
-To follow this tutorial, you need an IBM Cloud account. If you don't have one, you can [create one](ibm.biz/WKS_NLU).
+To follow this tutorial, you need an IBM Cloud account. If you don't have one, you can [create one](https://ibm.biz/WKS_NLU).
 
 ### Provision a Watson Natural Language Understanding instance
 
-After you have an IBM Cloud account, navigate to the [IBM Cloud console](https://cloud.ibm.com?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg).
+After you have an IBM Cloud account, navigate to the main Dashboard
 
 1. Click **Catalog**.
 1. Search for **Natural Language Understanding**, and click the icon when it appears.
@@ -294,7 +294,7 @@ In this tutorial, you learned how to annotate a set of documents to accurately c
 
 ## Workshop Resources
 
-- Login/Sign Up for [IBM Cloud](ibm.biz/WKS_NLU)
+- Login/Sign Up for [IBM Cloud](https://ibm.biz/WKS_NLU)
 
 - Hands-On Guide: <Link>
 
@@ -302,12 +302,12 @@ In this tutorial, you learned how to annotate a set of documents to accurately c
 
 - Workshop Replay: <Link>
   
-- Survey [Here](ibm.biz/WKSNLUSurvey) 
+- Survey [Here](https://ibm.biz/WKSNLUSurvey) 
 
 
 
   
 ## Done with the workshop? Here are some things you can try further
--[Build a customer care solution](/articles/insurance-industry-customer-care-solution)
+- [Build a customer care solution](/articles/insurance-industry-customer-care-solution)
 
 
