@@ -301,8 +301,9 @@ In this tutorial, you learned how to annotate a set of documents to accurately c
 - Workshop Replay: <Link>
 
 
-## Reference Links
+
   
 ## Done with the workshop? Here are some things you can try further
+-[Build a customer care solution](/articles/insurance-industry-customer-care-solution)
 
-## Authors
+
